@@ -22,4 +22,4 @@ An intuitive beginner level developer. Honing my skills on web devlopment and da
 - [x] Schooling at Delhi Public School, Doha Qatar
   + CGPA : 9.32
   
-
+bjjbi
