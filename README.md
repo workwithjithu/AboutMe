@@ -6,10 +6,6 @@ An intuitive beginner level developer. Honing my skills on web devlopment and da
 ### Biodata
 > Age : 22
 
-> Address : Erumely, Kottayam
-
->Ph no. : +91 7736762867 
-
 > Pursuing Bachelors Degree in Information Technology
 
 ## Education
@@ -41,7 +37,3 @@ An intuitive beginner level developer. Honing my skills on web devlopment and da
 
 ### An HTML-CSS clone of Amazon
   > A fun project to copy the homepage of Amazon-US. Using mainly css and html.
-
-## Contact me On
-- [LinkedIn](https://www.linkedin.com/in/jithu-george-5a8884202/)
-- Email: [jithugeorge.work@gmail.com](mailto:jithugeorge.work@gmail.com)
